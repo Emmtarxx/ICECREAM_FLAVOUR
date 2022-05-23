@@ -1,13 +1,15 @@
-#Flavour{
+#Flavour {
   text-align: center;
   color: blue;
-  text-shadow: 100px;
+  text-shadow: 2px 2px crimson;
 }
-body{
+
+body {
   background-repeat: no-repeat;
   background-size: cover;
 }
-#output{
+
+#output {
   color: chartreuse;
   text-transform: capitalize;
   font-size: x-large;
